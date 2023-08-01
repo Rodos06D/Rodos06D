@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodos06D
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python and C
+- 🌱 I’m currently learning python, C, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
